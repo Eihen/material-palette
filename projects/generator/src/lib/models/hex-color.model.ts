@@ -5,7 +5,7 @@ export class HexColor {
   Color: string;
   ContrastColor: string;
 
-  get IsReadable() {
+  get IsReadable(): boolean {
     return isReadable(this.Color, this.ContrastColor);
   }
 
