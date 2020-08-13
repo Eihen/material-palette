@@ -7,7 +7,7 @@ describe('TestService', () => {
 
   beforeEach(() => {
     TestBed.configureTestingModule({});
-    generator = TestBed.get(MaterialPaletteGeneratorService);
+    generator = TestBed.inject(MaterialPaletteGeneratorService);
   });
 
   it('Should be created', () => {

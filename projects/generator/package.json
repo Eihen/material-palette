@@ -1,5 +1,5 @@
 {
-  "name": "@material-palette/generator",
+  "name": "@eihen/material-palette-generator",
   "description": "Library to generate and export material design color palettes",
   "version": "1.0.0",
   "homepage": "https://github.com/Eihen/material-palette/projects/generator",
@@ -9,7 +9,10 @@
     "url": "https://github.com/Eihen"
   },
   "peerDependencies": {
-    "@angular/common": "^8.2.14",
-    "@angular/core": "^8.2.14"
+    "@angular/common": "^10.0.9",
+    "@angular/core": "^10.0.9"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
   }
 }
