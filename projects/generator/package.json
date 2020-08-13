@@ -1,0 +1,15 @@
+{
+  "name": "@material-palette/generator",
+  "description": "Library to generate and export material design color palettes",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Eihen/material-palette/projects/generator",
+  "author": {
+    "name": "Emerson Belancieri",
+    "email": "emersonbelancieri@gmail.com",
+    "url": "https://github.com/Eihen"
+  },
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  }
+}

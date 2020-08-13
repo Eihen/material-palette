@@ -1,6 +1,6 @@
-# MaterialPalette
+# Material Palette
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
+Utilities for handling material design color palettes.
 
 ## Development server
 
