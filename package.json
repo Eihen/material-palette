@@ -1,7 +1,7 @@
 {
   "name": "@eihen/material-palette",
   "description": "Utilities for handling material design color palettes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/Eihen/material-palette",
   "author": {
     "name": "Emerson Belancieri",
