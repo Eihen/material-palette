@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { TinyColor, isReadable } from '@ctrl/tinycolor';
+import { TinyColor } from '@ctrl/tinycolor';
 import { HexColor } from '../models/hex-color.model';
 import { Algorithm } from '../enums/algorithm.enum';
 

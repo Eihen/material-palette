@@ -1,8 +1,8 @@
 {
   "name": "@eihen/material-palette-generator",
   "description": "Library to generate and export material design color palettes",
-  "version": "1.0.2",
-  "homepage": "https://github.com/Eihen/material-palette/projects/generator",
+  "version": "1.0.4",
+  "homepage": "https://github.com/Eihen/material-palette/",
   "author": {
     "name": "Emerson Belancieri",
     "email": "emersonbelancieri@gmail.com",
